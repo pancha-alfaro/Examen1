@@ -188,6 +188,15 @@ footer {
     background-size: 19rem, 50rem;
     background-size: contain;
   }
+
+  .infobloque img {
+    width: 17rem;
+    padding-top: 55px;
+    padding-left: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
 }
 
 @media (min-width: 377px) and (max-width: 821px) {
@@ -216,6 +225,15 @@ footer {
     background-image: url(../assets/FOTOBLOCK3.png);
     background-size: 10rem, 20rem;
     background-size: contain;
+  }
+
+  .infobloque img {
+    width: 13rem;
+    padding-top: 50px;
+    padding-left: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
   }
 }
 
@@ -260,5 +278,14 @@ footer {
     background-image: url(../assets/FOTOBLOCK3.png);
     background-size: 15rem, 20rem;
     background-size: contain;
+  }
+
+  .infobloque img {
+    width: 13rem;
+    padding-top: 50px;
+    padding-left: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
   }
 }
